@@ -1,0 +1,1 @@
+1;Membuat Rancangan Aplikasi Sederhana - Pola Perancangan;Logo, Desain Pattern, Fitur, Mockup;true
